@@ -1,26 +1,26 @@
 const trabajos = [
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Portadas Fanzine.webp",
         title: "Fanzine Abre los ojos",
         description: "Trabajo de Proyecto III, con la profe. Pamela Petruska"
     },
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Portada vinilo.webp",
         title: "Vinilo KanYE X ChainsawMan",
         description: "Trabajo de proyecto I, con el profe. René Perea"
     },
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Memorice El juicio prohibido.webp",
         title: "Memorice El juicio prohibido",
         description: "Trabajo de representación conceptual, con la profe. Grace Mallea"
     },
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Foro concepto línea.webp",
         title: "Fotos concpeto línea",
         description: "Trabajo de proyecto II, con el profe. René Perea"
     },
      {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Intervención Corporal.webp",
         title: "Intervención corporal physalis alkekengi",
         description: "Trabajo de proyecto II, con el profe. René Perea"
     }
