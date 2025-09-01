@@ -1,4 +1,9 @@
 const trabajos = [
+      {
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Objeto de luz roja.webp",
+        title: "Objeto de luz",
+        description: "Trabajo de proyecto I, con el profe. René Perea"
+    },
     {
         photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Portadas Fanzine.webp",
         title: "Fanzine Abre los ojos",
@@ -23,11 +28,6 @@ const trabajos = [
         photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Intervención Corporal.webp",
         title: "Intervención corporal physalis alkekengi",
         description: "Trabajo de proyecto II, con el profe. René Perea"
-    },
-     {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Objeto de luz roja.webp",
-        title: "Objeto de luz",
-        description: "Trabajo de proyecto I, con el profe. René Perea"
     }
 
     ];
