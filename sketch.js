@@ -16,7 +16,7 @@ const trabajos = [
     },
     {
         photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Foro concepto línea.webp",
-        title: "Fotos concpeto línea",
+        title: "Fotos concepto línea",
         description: "Trabajo de proyecto II, con el profe. René Perea"
     },
      {
@@ -269,6 +269,8 @@ function setup() {
     trabajos.forEach((x)=>{
         document.querySelector("#portafolio").innerHTML += `<div><img src="${x.photo}"><p>${x.title}</p></div>`;
     });
+    
+    document.querySelector("#autoria").innerHTML = yo.nombre;
 
     //Ahora vuelvo al p5.js
     noStroke();
