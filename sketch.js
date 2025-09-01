@@ -28,8 +28,18 @@ const trabajos = [
         photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Intervención Corporal.webp",
         title: "Intervención corporal physalis alkekengi ft Claudio Abarca",
         description: "Trabajo de proyecto II, con el profe. René Perea"
-    }
-
+    },
+    {
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Patrón_Collage_JUCAL.webp",
+        title: "Collage a base de texturas",
+        description: "Trabajo de Configuración visual II, con el profe. Juan Calderon"
+    },
+     {
+        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Collage Te transmito demasiado Repre.webp",
+        title: "Collage Te transmito demasiado",
+        description: "Trabajo de representación conceptual, con la profe. Grace Mallea"
+     }
+    
     ];
 const datos = [
     {
