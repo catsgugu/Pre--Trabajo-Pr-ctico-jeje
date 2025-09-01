@@ -1,7 +1,7 @@
 const trabajos = [
       {
         photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Objeto de luz roja.webp",
-        title: "Objeto de luz",
+        title: "Objeto de luz ft Antonia Lara",
         description: "Trabajo de proyecto I, con el profe. René Perea"
     },
     {
@@ -16,7 +16,7 @@ const trabajos = [
     },
     {
         photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Memorice El juicio prohibido.webp",
-        title: "Memorice El juicio prohibido",
+        title: "Memorice El juicio prohibido ft Constanza Ortega",
         description: "Trabajo de representación conceptual, con la profe. Grace Mallea"
     },
     {
@@ -26,7 +26,7 @@ const trabajos = [
     },
      {
         photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Intervención Corporal.webp",
-        title: "Intervención corporal physalis alkekengi",
+        title: "Intervención corporal physalis alkekengi ft Claudio Abarca",
         description: "Trabajo de proyecto II, con el profe. René Perea"
     }
 
