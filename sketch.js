@@ -292,23 +292,99 @@ function setup() {
 }
 
 function draw() {
-    background("white");
-    orbitControl();
-    pointLight(255, 255, 255, valor / 3, valor / 2, 50);
-    specularMaterial(255);
-    shininess(50);
-    metalness(1);
+  background(255,255,255)
+  orbitControl();
 
-    // Add shapes.
+  noStroke();
+  fill(248,199,166);
+  sphere(130);
+  
+  noStroke();
+  fill(1,0,0);
+  translate(-50,0,150)
+  torus(45,5);
+  
+  noStroke();
+  fill(1,0,0);
+  translate(100,0,0);
+  torus(45,5);
+  
+  noStroke();
+  fill(1,0,0);
+  translate(-50,0,0)
+  box(30,10,10)
+  
+  noStroke();
+  fill(255,255,255);
+  translate(-50,0,0);
+  plane(73);
+  
+  noStroke();
+  fill(255,255,255);
+  translate(100,0,0);
+  plane(73);
+  
+  noStroke();
+  fill(1,0,0);
+  translate(-19,-19,1);
+  circle(40,40,40);
+  
+  noStroke();
+  fill(1,0,0);
+  translate(-100,0,0);
+  circle(40,40,40);
+  
+  noStroke();
+  fill(255,255,255);
+  translate(0,12,1);
+  circle(40,20,20);
+  
+  noStroke();
+  fill(255,255,255);
+  translate(100,0,1);
+  circle(40,20,20);
+  
+  noStroke();
+  fill(1,0,0);
+  translate(-110,-5,-30);
+  circle(70,70,70);
+  
+  noStroke();
+  fill(248,199,166);
+  translate(0,-10,1);
+  circle(70,70,80);
+    
+       push();
+  fill(241,164,146);
+  translate(25,-176,125);
+  ellipsoid(20,15,10);
+  
+  push();
+  fill(241,164,146);
+  translate(80,10,-1);
+  ellipsoid(20,15,10);
+    
+    
+  
+ push();
+fill(203, 82, 37)
+translate(-30,100, -230);
+cylinder(150, 30);
+pop();
+  
     push();
-    fill("red");
-    translate(0, -valor / 4, -valor / 7);
-    sphere(valor / 4);
+    fill("white");
+    translate(-30, 80, -230);
+    cylinder(120, 35);
     pop();
+    
     push();
-    fill("blue");
-    sphere(valor / 5);
-    pop();
+fill(203, 82, 37)
+translate(-30,50, -230);
+cylinder(110, 50);
+pop();
+  
+    
 }
 
 function windowResized() {
