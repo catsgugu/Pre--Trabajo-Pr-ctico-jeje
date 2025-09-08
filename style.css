@@ -97,3 +97,9 @@ div#final{
     text-align: center;
     padding: 1rem;
 }
+
+div#final{
+    clear: both;
+    text-align: center;
+    padding: 1rem;
+}
